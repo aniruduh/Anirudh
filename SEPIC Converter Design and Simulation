@@ -1,2 +1,0 @@
-SEPIC (Single Ended Primary Inductor Converter) converter can generate output voltages that can be larger or smaller than the input voltage. 
-But the polarity of buck-boost converter output voltage is inverse, while SEPIC without reversing the polarity, other than that adding capacitors and inductors to the SEPIC converter can cut down the value of the output ripple. 
